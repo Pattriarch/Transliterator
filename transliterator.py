@@ -56,4 +56,4 @@ for i in inputted:
     else:
         continue
 
-print('Данная строка в транслите будет такова: ', t_inputed)
+print('В транслите строка будет выглядеть так: ', t_inputed)
